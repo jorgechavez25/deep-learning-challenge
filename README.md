@@ -16,7 +16,8 @@ ASK_AMT—Funding amount requested
 IS_SUCCESSFUL—Was the money used effectively
 
 
-# Overview of the analysis: The purpose of the analysis is to  predict if applicants for the nonprofit foundation Alphabet Soup will be successful or notfind. The goal for the model was to reacah a 75% or higher to consider the model viable. 
+# Overview of the analysis: 
+The purpose of the analysis is to  predict if applicants for the nonprofit foundation Alphabet Soup will be successful or notfind. The goal for the model was to reacah a 75% or higher to consider the model viable. 
 
 
 # Results:
